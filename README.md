@@ -1,8 +1,10 @@
 # Diabetes-Classification-WEB
 
+This Project work is completed by Mohd Mohtashim.
+
+Visit my website for Diabete Prediction using your custom values [Click here ](https://mohtashim0007-diabetes-classification-web-main-dvsfd1.streamlitapp.com/)
 
 
-# Diabetes Classification Model
 Dataset = The dataset used for this project is Pima Indians Diabetes Dataset from Kaggle.
 
 #Features of the dataset:
